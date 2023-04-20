@@ -5,16 +5,16 @@ Here you will find some of my projects that shows my expertise in software devel
 
 Skills:
 
-✨Proficient in C#, .NET, and ASP.NET
-✨Strong knowledge of SQL Server and database management
-✨Experience in developing web applications using HTML, TypeScript
-✨Familiarity with Git, Visual Studio, and other development tools
-✨Strong problem-solving and analytical skills
+✨Proficient in C#, .NET, and ASP.NET  
+✨Strong knowledge of SQL Server and database management  
+✨Experience in developing web applications using HTML, TypeScript  
+✨Familiarity with Git, Visual Studio, and other development tools  
+✨Strong problem-solving and analytical skills  
 
 You can meet me using [LinkedIn](https://www.linkedin.com/in/kristine-kempe/) 
 
-Languages:
-[<img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" weight="50" height="50">]
+Languages:  
+<img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" weight="50" height="50">
 <img src="https://cdn.worldvectorlogo.com/logos/c.svg" weight="50" height="50">
 
 
