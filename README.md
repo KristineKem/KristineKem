@@ -14,9 +14,8 @@ Skills:
 You can meet me using [LinkedIn](https://www.linkedin.com/in/kristine-kempe/) 
 
 Languages:
-[<img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" weight="50" height="50">](http://example.com/)
-![](https://cdn.worldvectorlogo.com/logos/typescript-2.svg)
-
+[<img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" weight="50" height="50">]
+[<img src="https://cdn.worldvectorlogo.com/logos/c.svg" weight="50" height="50">]
 
 
 <!--
