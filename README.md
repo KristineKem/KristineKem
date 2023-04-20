@@ -11,7 +11,10 @@ Skills:
 ✨Familiarity with Git, Visual Studio, and other development tools
 ✨Strong problem-solving and analytical skills
 
-<img src="https://cdn.worldvectorlogo.com/logo/c.svg" width="50" height="50"/>
+You can meet me using [LinkedIn] (https://www.linkedin.com/in/kristine-kempe/) 
+
+Languages
+!(https://cdn.worldvectorlogo.com/logos/c.svg) (https://cdn.worldvectorlogo.com/logos/typescript-2.svg)
 
 
 
