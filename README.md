@@ -39,7 +39,7 @@ using C#, unit testing, TDD, JetBrains Rider.
 * Passion
 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR92hbvxRLgs0YbCq4r54ae885Bt_WhqV0QLw&usqp=CAU" weight="50" height="50">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR92hbvxRLgs0YbCq4r54ae885Bt_WhqV0QLw&usqp=CAU" weight="100" height="100">
 
 <!--
 **KristineKem/KristineKem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
