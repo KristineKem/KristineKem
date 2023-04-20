@@ -11,7 +11,7 @@ Skills:
 ✨Familiarity with Git, Visual Studio, and other development tools
 ✨Strong problem-solving and analytical skills
 
-https://worldvectorlogo.com/logo/c
+<img src = "https://worldvectorlogo.com/logo/c">
 
 
 <!--
