@@ -5,12 +5,13 @@ Here you will find some of my projects that shows my expertise in software devel
 
 Skills:
 
-✨Proficient in C#, .NET, and ASP.NET file:///C:/Users/krist/Downloads/c--4.svg
-✨Strong knowledge of SQL Server, T-SQL, and database management
-✨Experience in developing web applications using HTML, CSS, and JavaScript
-✨Skilled in Agile software development methodologies
+✨Proficient in C#, .NET, and ASP.NET
+✨Strong knowledge of SQL Server and database management
+✨Experience in developing web applications using HTML, TypeScript
 ✨Familiarity with Git, Visual Studio, and other development tools
 ✨Strong problem-solving and analytical skills
+
+https://worldvectorlogo.com/logo/c
 
 
 <!--
