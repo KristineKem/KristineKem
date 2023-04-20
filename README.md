@@ -15,7 +15,7 @@ You can meet me using [LinkedIn](https://www.linkedin.com/in/kristine-kempe/)
 
 Languages:  
 <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" weight="50" height="50">
-<img src="https://cdn.worldvectorlogo.com/logos/c.svg" weight="50" height="50">
+<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" weight="50" height="50">
 
 Tools:  
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" weight="50" height="50">
