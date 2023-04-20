@@ -3,7 +3,7 @@
 Welcome to my Github repositories! 
 Here you will find some of my projects that shows my expertise in software development.
 
-## ALT- Skills:
+## Skills:
 
 ✨Proficient in C#, .NET, and ASP.NET  
 ✨Strong knowledge of SQL Server and database management  
