@@ -11,21 +11,26 @@ Here you will find some of my projects that shows my expertise in software devel
 ✨Familiarity with Git, Visual Studio, and other development tools  
 ✨Strong problem-solving and analytical skills  
 
-## Alt-You can meet me using [LinkedIn](https://www.linkedin.com/in/kristine-kempe/) 
+## You can meet me using [LinkedIn](https://www.linkedin.com/in/kristine-kempe/) 
 
 ## Alt-Languages:  
 <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" weight="50" height="50">
 <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" weight="50" height="50">
 
-## Alt-Tools:  
+## Tools:  
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" weight="50" height="50">
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" weight="50" height="50">
 <img src="https://cdn.worldvectorlogo.com/logos/git.svg" weight="50" height="50">
 <img src="https://cdn.worldvectorlogo.com/logos/jetbrains-1.svg" weight="50" height="50">
 
-## Alt-Frameworks:  
+## Frameworks:  
 <img src="https://cdn.worldvectorlogo.com/logos/microsoft-net.svg" weight="50" height="50">
 
+## Projects  
+
+* Flight planner is an application which can store flights between different airports and allows you to search them. Developed using C#, HTTP & Web API and TypeScript.  
+* [Scooter Rental](https://github.com/KristineKem/Scooter-Rental) - application that allows rent scooters, calculates rental price, checks if scooter is rented or avaliable, calculates rental company income. Built  
+using C#, unit testing, TDD, JetBrains Rider. 
 
 <!--
 **KristineKem/KristineKem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
