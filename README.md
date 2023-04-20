@@ -3,7 +3,7 @@
 Welcome to my Github repositories! 
 Here you will find some of my projects that shows my expertise in software development.
 
-Skills:
+##Skills:
 
 ✨Proficient in C#, .NET, and ASP.NET  
 ✨Strong knowledge of SQL Server and database management  
@@ -11,19 +11,19 @@ Skills:
 ✨Familiarity with Git, Visual Studio, and other development tools  
 ✨Strong problem-solving and analytical skills  
 
-You can meet me using [LinkedIn](https://www.linkedin.com/in/kristine-kempe/) 
+##You can meet me using [LinkedIn](https://www.linkedin.com/in/kristine-kempe/) 
 
-Languages:  
+##Languages:  
 <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" weight="50" height="50">
 <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" weight="50" height="50">
 
-Tools:  
+##Tools:  
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" weight="50" height="50">
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" weight="50" height="50">
 <img src="https://cdn.worldvectorlogo.com/logos/git.svg" weight="50" height="50">
 <img src="https://cdn.worldvectorlogo.com/logos/jetbrains-1.svg" weight="50" height="50">
 
-Frameworks:  
+##Frameworks:  
 <img src="https://cdn.worldvectorlogo.com/logos/microsoft-net.svg" weight="50" height="50">
 
 
