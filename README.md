@@ -11,7 +11,7 @@ Skills:
 ✨Familiarity with Git, Visual Studio, and other development tools
 ✨Strong problem-solving and analytical skills
 
-<img src = "https://worldvectorlogo.com/logo/c" alt = "c# logo" width = "50" height = "50">
+<img src = "https://worldvectorlogo.com/logo/c.svg" alt = "c# logo" width = "50" height = "50">
 
 
 <!--
