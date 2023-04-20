@@ -17,6 +17,15 @@ Languages:
 <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" weight="50" height="50">
 <img src="https://cdn.worldvectorlogo.com/logos/c.svg" weight="50" height="50">
 
+Tools:  
+<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" weight="50" height="50">
+<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" weight="50" height="50">
+<img src="https://cdn.worldvectorlogo.com/logos/git.svg" weight="50" height="50">
+<img src="https://cdn.worldvectorlogo.com/logos/jetbrains-1.svg" weight="50" height="50">
+
+Frameworks:  
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-net.svg" weight="50" height="50">
+
 
 <!--
 **KristineKem/KristineKem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
