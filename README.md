@@ -26,6 +26,7 @@ I am solftware developer and here you will find some of my projects that shows m
 
 * [Flight planner](https://github.com/KristineKem/Flight-Planner.git) is an application which can store flights between different airports and allows you to search them. Developed using C#, HTTP & Web API and TypeScript.  
 * [Scooter Rental](https://github.com/KristineKem/Scooter-Rental) - application that allows rent scooters, calculates rental price, checks if scooter is rented or available, calculates rental company income. Built using C#, unit testing, TDD, JetBrains Rider. 
+* [SQL queries](https://github.com/KristineKem/SQL-Projects) - demonsrates using of databses, sql queries, integrity contrains  
 
 ## Soft skills:  
 * Strong problem-solving skills
