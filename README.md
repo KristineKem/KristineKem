@@ -7,7 +7,7 @@ I am solftware developer and here you will find some of my projects that shows m
 
 ✨Proficient in C#, .NET, and ASP.NET  
 ✨Strong knowledge of SQL Server and database management  
-✨Experience in developing web applications using HTML, TypeScript, React, Angular
+✨Experience in developing web applications using HTML, TypeScript, React, Angular  
 ✨Familiarity with Git, Visual Studio, Visual Studio Code and other development tools  
 ✨Strong problem-solving and analytical skills  
 
